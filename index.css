@@ -1,0 +1,76 @@
+body {
+  text-align: center;
+}
+
+.Title {
+  position: relative;
+  font-size: 40px;
+  font-family: Arial;
+  color: #DF0000
+}
+
+.Generateur {
+  position: relative;
+  top: 30px;
+}
+
+.Subtitle {
+  position: relative;
+  font-size: 23px;
+  right: 80px;
+  color: #DF0000;
+}
+
+.Chiffre {
+  position: relative;
+  right: 210px;
+}
+
+.Min {
+  position: relative;
+  right: 195px;
+}
+
+.Maj {
+  position: relative;
+  right: 192px;
+}
+
+.Spc {
+  position: relative;
+  right: 76px;
+}
+
+.NumberCar {
+  position: relative;
+  top: 30px;
+}
+
+.Bouton {
+  position: relative;
+  top: 60px;
+}
+
+.Result {
+  position: relative;
+  top: 150px;
+  font-size: 50px;
+}
+
+.Bouton {
+  position: relative;
+  background: #D50000;
+  border: #D50000;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-size: 22px;
+  font-weight: bold;
+  height: 50px;        
+  width: 300px; 
+}
+
+.NumberCar {
+  position: relative;
+  right: 330px;
+  font-size: 20px;
+}
